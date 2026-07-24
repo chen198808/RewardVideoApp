@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <color name="primary">#FF6D00</color>
+        <color name="primary_dark">#E65100</color>
+        <color name="secondary">#FFAB00</color>
+        <color name="bg_light">#FFF8E1</color>
+        <color name="card_bg">@android:color/white</color>
+        <color name="coin_gold">#FF6D00</color>
+        <color name="text_primary">#212121</color>
+        <color name="text_secondary">#757575</color>
+    </resources>
