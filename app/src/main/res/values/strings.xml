@@ -1,0 +1,7 @@
+<resources>
+        <string name="app_name">看广告赚金币</string>
+        <string name="your_coins">我的金币</string>
+        <string name="ad_loading">⏳ 加载广告中…</string>
+        <string name="ad_ready">▶️ 看视频赚金币</string>
+        <string name="ad_error">😅 加载失败，点击重试</string>
+    </resources>
