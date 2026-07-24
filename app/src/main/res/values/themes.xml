@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <style name="Theme.RewardVideoApp" parent="Theme.MaterialComponents.Light.NoActionBar">
+            <item name="colorPrimary">#FF6D00</item>
+            <item name="colorPrimaryVariant">#E65100</item>
+            <item name="colorOnPrimary">@android:color/white</item>
+            <item name="colorSecondary">#FFAB00</item>
+            <item name="android:statusBarColor">#E65100</item>
+        </style>
+    </resources>
