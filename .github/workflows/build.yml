@@ -1,10 +1,8 @@
 name: Build Android APK
-
 on:
   push:
     branches: [ "main" ]
   workflow_dispatch:
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -20,7 +18,7 @@ jobs:
       - name: Build APK
         run: |
           chmod +x gradlew
-          ./gradlew assembleRelease
+          ./gradlew assembleRelease --no-daemon
       - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
